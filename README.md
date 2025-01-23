@@ -11,7 +11,6 @@ O **Amigo Secreto** é um aplicativo web interativo onde os usuários podem adic
 - Realizar o sorteio de um amigo secreto entre os nomes adicionados.
 
 ## Como usar
-
 1. Abra o arquivo `index.html` no seu navegador.
 2. Digite um nome no campo de entrada e clique no botão **Adicionar**.
 3. Repita o processo para adicionar todos os amigos à lista.
