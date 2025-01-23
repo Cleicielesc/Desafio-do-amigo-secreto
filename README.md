@@ -20,6 +20,4 @@ O **Amigo Secreto** é um aplicativo web interativo onde os usuários podem adic
 - **HTML5**: Estruturação da página web.
 - **CSS3**: Estilização da página.
 - **JavaScript**: Lógica de interatividade.
-- **GitHub**: Hospedagem do repositório do projeto.
-
 
