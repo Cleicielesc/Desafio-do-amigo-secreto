@@ -16,4 +16,10 @@ O **Amigo Secreto** é um aplicativo web interativo onde os usuários podem adic
 3. Repita o processo para adicionar todos os amigos à lista.
 4. Clique no botão **Sortear amigo** para sortear um nome aleatoriamente.
 5. O nome sorteado será exibido na tela.
+## Ferramentas Utilizadas
+- **HTML5**: Estruturação da página web.
+- **CSS3**: Estilização da página.
+- **JavaScript**: Lógica de interatividade.
+- **GitHub**: Hospedagem do repositório do projeto.
+
 
